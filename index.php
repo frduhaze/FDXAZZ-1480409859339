@@ -5,7 +5,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<link rel="stylesheet" href="style.css" />
 </head>
-	
+	<script type="text/javascript" src="fonctions.js"></script>
 <body>
 	<table>
 		<tr>
